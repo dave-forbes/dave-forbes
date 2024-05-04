@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=dave-forbes)](https://github.com/dave-forbes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dave-forbes)](https://github.com/dave-forbes/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-forbes"/>
 
 
