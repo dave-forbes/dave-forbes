@@ -1,4 +1,4 @@
-Hi, i'm Dave.
+Hi, I'm Dave.
 
 I am a passionate student of web development, who is also obssesed with the great outdoors and music. 
 
